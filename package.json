@@ -1,0 +1,8 @@
+{
+    "name": "bhulua-v1.0.2",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "bdtask",
+    "contributors": [],
+    "dependencies": {}
+}
